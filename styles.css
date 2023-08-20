@@ -1,0 +1,29 @@
+h1 {
+    border-radius: 40px;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    text-align: center;
+    background-color: rgb(255, 218, 239);
+    color:rgb(238, 59, 163)
+}
+em {
+    background-color: rgb(248, 197, 216);
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: 4rem;
+    color:rgb(255, 87, 176)
+}
+h2 {
+    text-align: justify;
+    color:blueviolet
+}
+body {
+    background-color: rgb(241, 241, 241);
+    font-family:Arial, Helvetica, sans-serif;
+}
+a:visited {
+    color:rgb(155, 65, 240)  
+}
+a:active {
+    color: rgb(192, 152, 230);
+}
